@@ -39,5 +39,3 @@
 <strong>GitHub Stats</strong>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui&show_icons=true&theme=swift)
-
-![](https://komarev.com/ghpvc/?username=mahdizaoui&color=blueviolet) <br/>
