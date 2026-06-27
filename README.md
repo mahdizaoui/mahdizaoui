@@ -53,3 +53,5 @@ Focused on Full-Stack Development, APIs, and real-world software solutions.
 <p align="left">
 Web Development • Backend APIs • Full-Stack Applications • AI Integration • System Design
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui)](https://github.com/mahdizaoui/github-readme-stats)
