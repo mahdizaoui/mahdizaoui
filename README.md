@@ -39,11 +39,3 @@
 <strong>GitHub Stats</strong>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui&show_icons=true&theme=swift)
-
----
-
-<strong>Top Languages</strong>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdizaoui&layout=compact&theme=swift)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui)](https://github.com/mahdizaoui/github-readme-stats)
