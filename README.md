@@ -38,12 +38,12 @@
 
 <strong>GitHub Stats</strong>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=swift)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui&show_icons=true&theme=swift)
 
 ---
 
 <strong>Top Languages</strong>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=swift)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdizaoui&layout=compact&theme=swift)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui)](https://github.com/mahdizaoui/github-readme-stats)
