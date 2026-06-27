@@ -1,57 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mahdi</h1>
-
-<h3 align="center">Full-Stack Software Engineer | Building Modern Web Applications</h3>
-
 <p align="center">
-Passionate about building scalable web applications, clean backend systems, and modern user interfaces.  
-Focused on Full-Stack Development, APIs, and real-world software solutions.
+  <img src="https://i.imgur.com/P4FGMoS.png" width="400" style="display: block; margin: 0 auto"/>
 </p>
+
+<div align="center">
+  <p align="center">
+    <a href="https://www.linkedin.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png"></a>&nbsp;&nbsp;
+    <a href="mailto:yourmail@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO"></a>
+  </p>
+</div>
 
 ---
 
-<h3 align="left">🚀 Tech Stack:</h3>
+### About me
 
-<p align="left">
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
+* 💻 Full-Stack Software Engineer passionate about building modern web applications and scalable systems.
 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
+* 🚀 Focused on React, Node.js, Python, and FastAPI.
 
-  <a href="https://www.javascript.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
+* 🤖 Interested in AI-powered applications and automation.
 
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
-</p>
+* 🔥 I enjoy turning ideas into real-world software and solving practical problems.
 
 ---
 
-<h3 align="left">📌 About Me:</h3>
-
-- 💻 Full-Stack Developer (Frontend + Backend)
-- 🌱 Currently improving Software Engineering skills
-- ⚡ Interested in AI, APIs, and scalable systems
-- 🎯 Goal: Work as a Software Engineer in international companies
+<div>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+</div>
 
 ---
 
-<h3 align="left">📂 Focus Areas:</h3>
+<strong>GitHub Stats</strong>
 
-<p align="left">
-Web Development • Backend APIs • Full-Stack Applications • AI Integration • System Design
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=swift)
+
+---
+
+<strong>Top Languages</strong>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=swift)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui)](https://github.com/mahdizaoui/github-readme-stats)
