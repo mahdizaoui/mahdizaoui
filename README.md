@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://www.linkedin.com/mahdizaoui"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mahdizaoui"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png"></a>&nbsp;&nbsp;
     <a href="mailto:itsmahdizaoui@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO"></a>
   </p>
 </div>
