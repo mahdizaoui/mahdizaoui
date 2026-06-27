@@ -22,6 +22,7 @@
 * 🔥 I enjoy turning ideas into real-world software and solving practical problems.
 
 ---
+![](https://komarev.com/ghpvc/?username=mahdizaoui&color=blueviolet) <br/>
 
 <div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
@@ -38,3 +39,5 @@
 <strong>GitHub Stats</strong>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizaoui&show_icons=true&theme=swift)
+
+![](https://komarev.com/ghpvc/?username=mahdizaoui&color=blueviolet) <br/>
