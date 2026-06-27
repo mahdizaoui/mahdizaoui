@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/P4FGMoS.png" width="400" style="display: block; margin: 0 auto"/>
+  <img src="Gemini_Generated_Image_it3mgrit3mgrit3m.png" width="400" style="display: block; margin: 0 auto"/>
 </p>
 
 <div align="center">
